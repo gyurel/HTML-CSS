@@ -1,0 +1,35 @@
+/* with id= "wrapper" as a container
+o Width container: 700px;
+o Height container: 730px;
+o Border: 1px solid #000000;
+o Center the container
+o Padding: 10px 20px;
+o Background Color: #a6e1ec; */
+
+#wrapper {
+    width: 700px;
+    height: 730px;
+    border: 1px solid #000000;
+    margin: 0 auto;
+    width: 50%;
+    padding: 10px;
+    background-color: #a6e1ec;
+}
+
+img {
+    width: 200px;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+.text {
+    color: #3f51b5;
+}
+
+li {
+    width: 595px;
+    padding: 10px;
+    margin-bottom: 5px;
+    font-size: 14px;
+    border: 1px solid #000000;
+}
