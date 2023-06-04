@@ -1,0 +1,28 @@
+html {
+    font-family: Helvetica, sans-serif;
+    margin: 4em;
+}
+
+header {
+    border-bottom: 1px solid black;
+    display: flex;
+}
+
+header>p {
+    font-size: 48px;
+    font-weight: 750;
+}
+
+nav {
+    padding-left: 5em;
+    display: inline-block;
+}
+
+li {
+    display: inline-block;
+    padding-top: 52px;
+}
+
+a {
+    color: green;
+}
